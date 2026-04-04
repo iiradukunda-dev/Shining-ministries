@@ -1,1 +1,1 @@
-
+Shining ministries platform

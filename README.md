@@ -1,4 +1,4 @@
-This full-stack website for **Shining Ministries** is a comprehensive digital platform designed to manage the ministry's operations, engage with the community, and facilitate support. It combines a beautiful, interactive user interface with a powerful administrative backend.
+This full-stack website for **Shining Ministries**,It is a comprehensive digital platform designed to manage the ministry's operations, engage with the community, and facilitate support. It combines a beautiful, interactive user interface with a powerful administrative backend.
 
 **1. Frontend Features (User Experience)**
 

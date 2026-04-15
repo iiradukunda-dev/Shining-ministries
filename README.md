@@ -19,7 +19,7 @@ Social Integration: Direct links to your YouTube, Instagram, TikTok, and Faceboo
 
 **2. Backend Features (Management & Data)**
 
-3. The backend is powered by Flask (Python) and an SQLite database, providing the "brains" of the operation:
+The backend is powered by Flask (Python) and an SQLite database, providing the "brains" of the operation:
 Admin Control Panel: A secure area where administrators can log in to update upcoming events and music releases without touching any code.
 
 **Member Database:** Stores all applications from people wanting to join the ministry.

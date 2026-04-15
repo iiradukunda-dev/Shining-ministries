@@ -10,13 +10,15 @@ Music & Events: A specialized area for Upcoming Tunes (music releases) and an Ev
 Donation System: A professional support section featuring official logos for MTN Mobile Money Rwanda, PayPal, and Western Union.
 Community Engagement: An integrated Join Us application form and a Contact section with an interactive Google Map of your Kigali location.
 Social Integration: Direct links to your YouTube, Instagram, TikTok, and Facebook profiles.
-2. Backend Features (Management & Data)
+
+**2. Backend Features (Management & Data)**
+3. 
 The backend is powered by Flask (Python) and an SQLite database, providing the "brains" of the operation:
 Admin Control Panel: A secure area where administrators can log in to update upcoming events and music releases without touching any code.
 Member Database: Stores all applications from people wanting to join the ministry.
 QR Code System: Automatically generates and stores QR codes for members, allowing quick digital access to their documents or profiles.
 Automated Data Handling: Manages the storage of all messages, donation records, and ministry information securely.
-3. Technical Capabilities
+4. Technical Capabilities
 Full Responsiveness: The site is "Mobile-First," meaning it looks and works perfectly on smartphones, tablets, and desktop computers.
 Offline Capability: I have provided a Local Setup Guide and a complete Project Zip, allowing you to run the entire system on a local computer without needing an active internet connection.
 Production Ready: The site is currently deployed and live, optimized for fast loading and security.

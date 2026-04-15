@@ -29,6 +29,6 @@ QR Code System: Automatically generates and stores QR codes for members, allowin
 
 Automated Data Handling: Manages the storage of all messages, donation records, and ministry information securely.
 
-**4. Technical Capabilities**
+**3. Technical Capabilities**
 
 Full Responsiveness: The site is "Mobile-First," meaning it looks and works perfectly on smartphones, tablets, and desktop computers.

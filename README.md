@@ -12,11 +12,11 @@ The frontend is built with React and Tailwind CSS, focusing on a modern, respons
 Social Integration: Direct links to your YouTube, Instagram, TikTok, and Facebook profiles.
 
 **2. Backend Features (Management & Data)**
-3. 
-The backend is powered by Flask (Python) and an SQLite database, providing the "brains" of the operation:
+
+3. The backend is powered by Flask (Python) and an SQLite database, providing the "brains" of the operation:
 Admin Control Panel: A secure area where administrators can log in to update upcoming events and music releases without touching any code.
-Member Database: Stores all applications from people wanting to join the ministry.
-QR Code System: Automatically generates and stores QR codes for members, allowing quick digital access to their documents or profiles.
+**Member Database:** Stores all applications from people wanting to join the ministry.
+**QR Code System:** Automatically generates and stores QR codes for members, allowing quick digital access to their documents or profiles.
 Automated Data Handling: Manages the storage of all messages, donation records, and ministry information securely.
-4. Technical Capabilities
+**4. Technical Capabilities**
 Full Responsiveness: The site is "Mobile-First," meaning it looks and works perfectly on smartphones, tablets, and desktop computers.
